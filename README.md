@@ -1,6 +1,7 @@
 # netflix_clone
 
-A new Flutter project.
+A simple netflix clone where you can see the images only. 
+API - [TMDB](https://www.themoviedb.org/)
 
 ## Getting Started
 
